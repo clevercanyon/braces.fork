@@ -29,8 +29,5 @@
   "dependencies": {
     "fill-range": "npm:@clevercanyon/fill-range.fork@^7.0.1"
   },
-  "devDependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "devDependencies": {}
 }
