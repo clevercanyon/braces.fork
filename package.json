@@ -1,7 +1,7 @@
 {
   "private": false,
   "license": "MIT",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "name": "@clevercanyon/braces.fork",
   "description": "Bash-like brace expansion, implemented in JavaScript.",
   "repository": "https://github.com/clevercanyon/braces.fork",
