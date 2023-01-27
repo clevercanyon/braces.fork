@@ -3,7 +3,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "3.0.9",
+	"version": "3.0.10",
 	"license": "MIT",
 	"name": "@clevercanyon/braces.fork",
 	"description": "Bash-like brace expansion, implemented in JavaScript.",
@@ -11,7 +11,9 @@
 	"homepage": "https://github.com/clevercanyon/braces.fork#readme",
 	"bugs": "https://github.com/clevercanyon/braces.fork/issues",
 	"funding": "https://github.com/sponsors/clevercanyon",
-	"keywords": ["clevercanyon"],
+	"keywords": [
+		"clevercanyon"
+	],
 	"author": {
 		"name": "Jon Schlinkert",
 		"url": "https://github.com/jonschlinkert"
@@ -23,7 +25,10 @@
 		}
 	],
 	"type": "commonjs",
-	"files": ["/lib", "/index.js"],
+	"files": [
+		"/lib",
+		"/index.js"
+	],
 	"bin": {},
 	"imports": {},
 	"exports": null,
@@ -46,8 +51,14 @@
 	},
 	"overrides": {},
 	"workspaces": [],
-	"cpu": ["x64", "arm64"],
-	"os": ["darwin", "linux"],
+	"cpu": [
+		"x64",
+		"arm64"
+	],
+	"os": [
+		"darwin",
+		"linux"
+	],
 	"engines": {
 		"node": "^19.2.0 || ^19.4.0",
 		"npm": "^8.19.3 || ^9.2.0"
