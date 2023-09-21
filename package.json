@@ -1,85 +1,85 @@
 {
-	"private": false,
-	"publishConfig": {
-		"access": "public"
-	},
-	"version": "3.0.52",
-	"license": "MIT",
-	"name": "@clevercanyon/braces.fork",
-	"description": "Bash-like brace expansion, implemented in JavaScript.",
-	"repository": "https://github.com/clevercanyon/braces.fork",
-	"homepage": "https://github.com/clevercanyon/braces.fork#readme",
-	"bugs": "https://github.com/clevercanyon/braces.fork/issues",
-	"funding": "https://github.com/sponsors/clevercanyon",
-	"keywords": ["clevercanyon"],
-	"author": {
-		"name": "Jon Schlinkert",
-		"url": "https://github.com/jonschlinkert"
-	},
-	"contributors": [
-		{
-			"name": "Clever Canyon",
-			"url": "https://clevercanyon.com"
-		}
-	],
-	"type": "commonjs",
-	"files": ["/lib/*.js", "/index.js"],
-	"bin": {},
-	"imports": {},
-	"exports": null,
-	"sideEffects": [],
-	"module": "",
-	"main": "./index.js",
-	"browser": "",
-	"unpkg": "",
-	"types": "",
-	"typesVersions": {},
-	"dependencies": {
-		"fill-range": "npm:@clevercanyon/fill-range.fork@^7.0.51"
-	},
-	"peerDependencies": {},
-	"peerDependenciesMeta": {},
-	"optionalDependencies": {},
-	"bundleDependencies": [],
-	"devDependencies": {
-		"@clevercanyon/dev-deps": "^1.0.215"
-	},
-	"overrides": {},
-	"cpu": ["x64", "arm64"],
-	"os": ["darwin", "linux"],
-	"engines": {
-		"node": "^19.1.0 || ^20.5.1",
-		"npm": "^8.19.3 || ^9.2.0"
-	},
-	"config": {
-		"c10n": {
-			"&": {
-				"dotfiles": {
-					"lock": []
-				},
-				"build": {
-					"appType": "",
-					"targetEnv": "",
-					"entryFiles": []
-				},
-				"ssrBuild": {
-					"appType": "",
-					"targetEnv": "",
-					"entryFiles": []
-				},
-				"github": {
-					"teams": {
-						"engineers": "pull",
-						"architects": "push"
-					},
-					"labels": {},
-					"configVersion": "1.0.9",
-					"envsVersion": ""
-				},
-				"npmjs": {
-					"configVersions": "1.0.9,1.0.9"
-				}
-			}
-		}
-	}
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
+    "version": "3.0.53",
+    "license": "MIT",
+    "name": "@clevercanyon/braces.fork",
+    "description": "Bash-like brace expansion, implemented in JavaScript.",
+    "repository": "https://github.com/clevercanyon/braces.fork",
+    "homepage": "https://github.com/clevercanyon/braces.fork#readme",
+    "bugs": "https://github.com/clevercanyon/braces.fork/issues",
+    "funding": "https://github.com/sponsors/clevercanyon",
+    "keywords": ["clevercanyon"],
+    "author": {
+        "name": "Jon Schlinkert",
+        "url": "https://github.com/jonschlinkert"
+    },
+    "contributors": [
+        {
+            "name": "Clever Canyon",
+            "url": "https://clevercanyon.com"
+        }
+    ],
+    "type": "commonjs",
+    "files": ["/lib/*.js", "/index.js"],
+    "bin": {},
+    "imports": {},
+    "exports": null,
+    "sideEffects": [],
+    "module": "",
+    "main": "./index.js",
+    "browser": "",
+    "unpkg": "",
+    "types": "",
+    "typesVersions": {},
+    "dependencies": {
+        "fill-range": "npm:@clevercanyon/fill-range.fork@^7.0.52"
+    },
+    "peerDependencies": {},
+    "peerDependenciesMeta": {},
+    "optionalDependencies": {},
+    "bundleDependencies": [],
+    "devDependencies": {
+        "@clevercanyon/dev-deps": "^1.0.227"
+    },
+    "overrides": {},
+    "cpu": ["x64", "arm64"],
+    "os": ["darwin", "linux"],
+    "engines": {
+        "node": "^19.1.0 || ^20.5.1",
+        "npm": "^8.19.3 || ^9.2.0"
+    },
+    "config": {
+        "c10n": {
+            "&": {
+                "dotfiles": {
+                    "lock": []
+                },
+                "build": {
+                    "appType": "",
+                    "targetEnv": "",
+                    "entryFiles": []
+                },
+                "ssrBuild": {
+                    "appType": "",
+                    "targetEnv": "",
+                    "entryFiles": []
+                },
+                "github": {
+                    "teams": {
+                        "engineers": "pull",
+                        "architects": "push"
+                    },
+                    "labels": {},
+                    "configVersion": "1.0.9",
+                    "envsVersion": ""
+                },
+                "npmjs": {
+                    "configVersions": "1.0.9,1.0.9"
+                }
+            }
+        }
+    }
 }
