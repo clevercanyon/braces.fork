@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "3.0.81",
+    "version": "3.0.82",
     "license": "MIT",
     "name": "@clevercanyon/braces.fork",
     "description": "Bash-like brace expansion, implemented in JavaScript.",
@@ -35,14 +35,14 @@
     "types": "",
     "typesVersions": {},
     "dependencies": {
-        "fill-range": "npm:@clevercanyon/fill-range.fork@^7.0.79"
+        "fill-range": "npm:@clevercanyon/fill-range.fork@^7.0.80"
     },
     "peerDependencies": {},
     "peerDependenciesMeta": {},
     "optionalDependencies": {},
     "bundleDependencies": [],
     "devDependencies": {
-        "@clevercanyon/dev-deps": "^1.0.303"
+        "@clevercanyon/dev-deps": "^1.0.304"
     },
     "overrides": {},
     "cpu": ["x64", "arm64"],
